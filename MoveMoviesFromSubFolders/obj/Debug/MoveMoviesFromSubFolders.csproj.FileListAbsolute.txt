@@ -4,3 +4,9 @@ C:\Users\ninop\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolder
 C:\Users\ninop\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Debug\MoveMoviesFromSubFolders.csprojResolveAssemblyReference.cache
 C:\Users\ninop\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Debug\MoveMoviesFromSubFolders.exe
 C:\Users\ninop\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Debug\MoveMoviesFromSubFolders.pdb
+C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Debug\MoveMoviesFromSubFolders.exe.config
+C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Debug\MoveMoviesFromSubFolders.exe
+C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Debug\MoveMoviesFromSubFolders.pdb
+C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Debug\MoveMoviesFromSubFolders.exe
+C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Debug\MoveMoviesFromSubFolders.pdb
+C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Debug\MoveMoviesFromSubFolders.csprojResolveAssemblyReference.cache

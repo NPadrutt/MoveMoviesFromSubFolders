@@ -20,13 +20,12 @@ namespace MoveMoviesFromSubFolders
             foreach (string file in myMovieFiles)
             {
                 FileInfo mFile = new FileInfo(file);
-                Console.WriteLine($"Move File: {mFile.Name}");
                 new FileInfo(file).MoveTo(Path.Combine(userPath, mFile.Name));
                 filesMoved++;
             }
 
-            Console.WriteLine($"Files moved: {filesMoved}");
-            Console.ReadLine();
+            Console.Write("Files moved: ");
+            Console.WriteLine(filesMoved);
         }
     }
 }
