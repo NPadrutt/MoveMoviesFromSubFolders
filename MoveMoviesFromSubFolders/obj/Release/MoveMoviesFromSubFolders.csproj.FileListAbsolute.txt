@@ -9,3 +9,11 @@ C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders
 C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Release\MoveMoviesFromSubFolders.csprojResolveAssemblyReference.cache
 C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Release\MoveMoviesFromSubFolders.exe
 C:\Users\nino\Documents\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Release\MoveMoviesFromSubFolders.pdb
+C:\Users\ninop\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Release\MoveMoviesFromSubFolders.exe.config
+C:\Users\ninop\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Release\MoveMoviesFromSubFolders.exe
+C:\Users\ninop\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Release\MoveMoviesFromSubFolders.pdb
+C:\Users\ninop\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Release\MoveMoviesFromSubFolders.exe
+C:\Users\ninop\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\obj\Release\MoveMoviesFromSubFolders.pdb
+C:\Users\ninop\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Release\Syroot.Windows.IO.KnownFolders.dll
+C:\Users\ninop\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Release\Syroot.Windows.IO.KnownFolders.pdb
+C:\Users\ninop\GitHub\MoveMoviesFromSubFolders\MoveMoviesFromSubFolders\bin\Release\Syroot.Windows.IO.KnownFolders.xml
