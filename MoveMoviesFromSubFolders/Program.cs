@@ -2,6 +2,7 @@
 using System.IO;
 using System.Linq;
 using Syroot.Windows.IO;
+using static System.Net.WebRequestMethods;
 
 namespace MoveMoviesFromSubFolders
 {
@@ -19,14 +20,18 @@ namespace MoveMoviesFromSubFolders
             int filesMoved = 0;
             foreach (string file in myMovieFiles)
             {
+                FileInfo mFile = new FileInfo(file);
+                Console.WriteLine($"Move File: {mFile.Name}");
+                var filePath = Path.Combine(FOLDER_PATH, mFile.Name);
                 try
                 {
-                    FileInfo mFile = new FileInfo(file);
-                    Console.WriteLine($"Move File: {mFile.Name}");
-                    new FileInfo(file).MoveTo(Path.Combine(FOLDER_PATH, mFile.Name));
+                    new FileInfo(file).MoveTo(filePath);
                     filesMoved++;
                 }
-                catch { }
+                catch
+                {
+                    Console.WriteLine($"unable to move File {filePath}.");
+                }
             }
 
             Console.WriteLine($"Files moved: {filesMoved}");
